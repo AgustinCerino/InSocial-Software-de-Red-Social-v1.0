@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1698963402 source:c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\contenido.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1698963799 c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\usuarios.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698963475 c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\contenido.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1698964051 c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\mensajeria.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700692314 source:c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	<conio.h>
+
+1698963536 source:c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\mensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1698963612 c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698963965 source:c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"contenido.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+	"menu.h"
+
+1698963720 source:c:\users\agust\onedrive\escritorio\tup\codeblocksej 2\tp final lab1\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuarios.h"
+	"mensajeria.h"
+	<locale.h>
+	<wchar.h>
+
